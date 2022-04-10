@@ -1,0 +1,22 @@
+.contact {
+  height: 71vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.contact h1 {
+  font-size: 50px;
+  color: rgb(0, 119, 255);
+  text-align: center;
+}
+.contact-links {
+  margin-top: 4rem;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 20px;
+}
+.contact-links a {
+  padding: 0 30px;
+}

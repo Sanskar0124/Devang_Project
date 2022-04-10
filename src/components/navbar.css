@@ -1,0 +1,16 @@
+.navbar {
+  background: lightblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navbar p {
+  padding: 10px;
+  color: black;
+  font-size: 20px;
+}
+.navbar p:hover {
+  border-radius: 10px;
+  background: darkblue;
+  color: white;
+}
